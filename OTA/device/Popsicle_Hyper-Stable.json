@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "samrth012",
+			"oem": "Nothing",
+			"device": "Pong",
+			"filename": "Project_Actinides-3.0.306.0.WPBCNAC-260421-1000-Hyper-OFFICIAL-Popsicle-ota.zip",
+			"download": "",
+			"timestamp": 1752083550,
+			"md5": "fc594dc980cae36372c230f67f52fd29",
+			"sha256": "545a88905a8b4d7d8b48a8164fc165a44606561080724f7e032a96c7ac58917a",
+			"size": 2971614406,
+			"version": "3.0.306.0.WPBCNAC",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
