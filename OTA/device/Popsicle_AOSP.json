@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Shiru Tsukishiro",
+			"oem": "Xiaomi",
+			"device": "Popsicle",
+			"filename": "Project_Actinides-1.0-260421-0003-AOSP-OFFICIAL-Popsicle-ota.zip",
+			"download": "",
+			"timestamp": 1752083550,
+			"md5": "fc594dc980cae36372c230f67f52fd29",
+			"sha256": "545a88905a8b4d7d8b48a8164fc165a44606561080724f7e032a96c7ac58917a",
+			"size": 2971614406,
+			"version": "1.0-Actinium",
+			"buildtype": "Alpha",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
